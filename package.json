@@ -1,0 +1,25 @@
+{
+  "name": "intro-node-ts",
+  "version": "1.0.0",
+  "description": "Introducción a Node con TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iginfantes/intro-node-ts.git"
+  },
+  "keywords": [
+    "nodets",
+    "typescript",
+    "introduccion"
+  ],
+  "author": "Isaac García <isaac_xvi@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iginfantes/intro-node-ts/issues"
+  },
+  "homepage": "https://github.com/iginfantes/intro-node-ts#readme"
+}
